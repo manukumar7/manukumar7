@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 👨‍💻 All of my projects are available at [palportfolio.netlify.app](palportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [palportfolio.netlify.app](https://palportfolio.netlify.app/)
 
 - 💬 Ask me about **Reactjs,javascript,java**
 
@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manukumar07&show_icons=true&locale=en&layout=compact" alt="manukumar07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manukumar07&show_icons=true&locale=en" alt="manukumar07" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manukumar07&show_icons=true&locale=en" alt="manukumar07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manukumar07&" alt="manukumar07" /></p>
