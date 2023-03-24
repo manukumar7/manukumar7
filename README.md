@@ -1,4 +1,4 @@
-[](https://github.com/manukumar07/manukumar07/blob/main/banner.png)
+![](https://github.com/manukumar07/manukumar07/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Manu Kumar Pal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manukumar07&label=Profile%20views&color=0e75b6&style=flat" alt="manukumar07" /> </p>
 
