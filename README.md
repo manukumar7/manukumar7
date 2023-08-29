@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manukumar07" alt="manukumar07" /></a></p>
 
-- 🌱 I’m currently learning ** Full stack Development **
+- 🌱 I’m currently learning *** Full stack Development ***
 
 - 👨‍💻 All of my projects are available at [palportfolio.netlify.app](https://palportfolio.netlify.app/)
 
