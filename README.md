@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Reactjs,javascript,java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@manukumarpal34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@manukumarpal34" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/palmanukumar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="palmanukumar53" height="30" width="30" /></a>
