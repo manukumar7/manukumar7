@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *** Full stack Development ***
 
-- 👨‍💻 All of my projects are available at [palportfolio.netlify.app](https://palportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at  [palportfolio.netlify.app](https://palportfolio.netlify.app/)
 
 - 💬 Ask me about **Reactjs,javascript,java**
 
