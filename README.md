@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at  [palportfolio.netlify.app](https://palportfolio.netlify.app/)
 
-- 💬 Ask me about **Reactjs,javascript,java**
+- 💬 Ask me about **Reactjs,javascript,Core java**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
