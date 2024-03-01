@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at  [https://mkportfolio-me.netlify.app/)
 
-- 💬 Ask me about **REACTJS, JAVASCRIPT, C++ , CORE JAVA, NODEJS,  EXPRESSJS , HTML , CSS , MONGODB , RESTAPI, JSON , POSTMAN **
+- 💬 Ask me about **REACTJS, JAVASCRIPT, C++ , NODEJS,  EXPRESSJS , HTML , CSS , MONGODB , RESTAPI, JSON , POSTMAN **
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
