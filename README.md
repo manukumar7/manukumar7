@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manukumar07" alt="manukumar07" /></a></p>
 
-- 🌱 I’m currently learning *** React-Native and Nextjs ***
+- 🌱 I’m currently learning *** Nextjs ***
 
 - 👨‍💻 All of my projects are available at  [https://mkportfolio-me.netlify.app/)
 
