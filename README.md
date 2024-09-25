@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/manu-kumar-pal/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-   <a href="https://leetcode.com/u/Manup569/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-  </a>
+   
 </p>
 
 
