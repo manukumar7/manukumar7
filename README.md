@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Manu Kumar Pal</h1>
-<h2 align="center">A Passionate Full Stack Developer - {MERN} and SDE Roles</h2>
+<h2 align="center">A Passionate Full Stack Developer and SDE Roles</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manukumar07&label=Profile%20views&color=0e75b6&style=flat" alt="manukumar07" />
 </p>
