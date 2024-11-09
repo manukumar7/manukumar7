@@ -1,14 +1,11 @@
 <h1 align="center">Hi👋, I'm Manu Kumar Pal</h1>
 <h2 align="center">A Passionate Full Stack Developer and SDE Roles</h2>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manukumar07&label=Profile%20views&color=0e75b6&style=flat" alt="manukumar07" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manukumar07" alt="manukumar07" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manukumar07&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manukumar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 - 🌱 I’m currently learning  **TypeScript **
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
