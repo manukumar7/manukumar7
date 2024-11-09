@@ -4,7 +4,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manukumar07&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning  **TypeScript **
+- 🌱 I’m currently learning  ** TypeScript **
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
 - 💬 Ask me about **ReactJS, JavaScript, TypeScript, C++, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman**
 
@@ -17,6 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=manukumar07&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manukumar07&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manukumar07&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Manukumarpal7&icon=0&color=0)](https://visitcount.itsvg.in)
