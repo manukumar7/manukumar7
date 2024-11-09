@@ -4,9 +4,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manukumar07&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manukumar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 - 🌱 I’m currently learning  **TypeScript **
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
 - 💬 Ask me about **ReactJS, JavaScript, TypeScript, C++, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman**
