@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning  ** TypeScript **
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
-- 💬 Ask me about ** ReactJS, JavaScript, TypeScript, C++, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman **
+- 💬 Ask me about ** C++ , ReactJS, JavaScript, TypeScript, C++, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman **
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manu-kumar-pal/) 
