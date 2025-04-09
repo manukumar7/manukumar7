@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, I'm Manu Kumar Pal</h1>
-<h2 align="center">A Passionate Full Stack Developer and SDE Roles</h2>
+<h2 align="center">A Passionate Full Stack Developer and Software Developer Roles</h2>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manukumar07&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
 
 
-- 🌱 I’m currently learning  ** Andriod Development**
+- 🌱 I’m currently learning  ** React Native **
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
 - 💬 Ask me about ** C++ , ReactJS, JavaScript, TypeScript, C++, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman **
 
