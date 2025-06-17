@@ -5,9 +5,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=manukumar07&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
 
 
+
 - 🌱 I’m currently learning  ** NextJS **
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
-- 💬 Ask me about ** C++ , ReactJS, JavaScript, TypeScript, C++, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman **
+- 💬 Ask me about ** C++ , ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman **
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manu-kumar-pal/) 
