@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Manu Kumar Pal</h1>
-<h2 align="center">A Passionate Full Stack Developer and Software Developer Roles</h2>
+<h2 align="center">Full Stack Developer and backend Developer Roles</h2>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manukumar07&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
