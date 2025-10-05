@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning  ** Python and ML **
+- 🌱 I’m currently learning  **Python and ML**
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
-- 💬 Ask me about ** C++ , ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, HTML, CSS, MongoDB, REST APIs, JSON, Postman **
+- 💬 Ask me about **ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, HTML/CSS, MongoDB, REST APIs**
 
 ## 🌐 Socials:
 
