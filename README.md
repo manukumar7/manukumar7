@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning  **Python and ML**
+- 🌱 I’m currently learning  **LLM ans Genai**
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
 - 💬 Ask me about **ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, HTML/CSS, MongoDB, REST APIs**
 
