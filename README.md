@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning  ** AI/ML Development**
+- 🌱 I’m currently learning  **AI/ML Development**
 - 👨‍💻 All of my projects are available at [https://mkportfolio-me.netlify.app/](https://mkportfolio-me.netlify.app/)
 - 💬 Ask me about **ReactJS, JavaScript, TypeScript, NodeJS, ExpressJS, HTML/CSS, MongoDB, REST APIs**
 
