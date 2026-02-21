@@ -89,4 +89,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manup2464@gmail.com)
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/manukumar7/manukumar7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/manukumar7/manukumar7/output/github-contribution-grid-snake.svg)
