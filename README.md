@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused+Engineer;AI+Integration+Builder;LLM+Application+Explorer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;AI+Integration+Builder;LLM+Application+Explorer;Building+Scalable+Web+Apps" />
 </p>
 
 
