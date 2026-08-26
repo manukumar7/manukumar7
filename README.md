@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Backend Engineer | AI Integration Builder
+  🚀 Full Stack Developer | Java Backend Engineer | AI Integration Builder | AI Agent Development
 </h3>
 
 <p align="center">
